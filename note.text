@@ -1,8 +1,11 @@
-while($a != 0){
-
-    $a--
-}
-
-for($i = 1; $i <= $a; $i++){
-    
-}
+<!DOCTYPE html>
+<html>
+<head>
+<title>test</title>
+</head>
+<body>
+<?php
+print "test"
+?>
+</body>
+</html>
